@@ -18,3 +18,4 @@ while(b<=24){
 for (let index = 10; index >=1; index--) {
     console.log(index); 
 }
+let x=3;
