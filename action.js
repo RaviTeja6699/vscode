@@ -19,3 +19,12 @@ for (let index = 10; index >=1; index--) {
     console.log(index); 
 }
 let x=3;
+let c=prompt();
+let d=c%10;
+if (d===4) {
+    console.log(d + '  having 4 units');
+    
+}
+else{
+    console.log(d + '  not having 4 units');
+}
