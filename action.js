@@ -1,4 +1,5 @@
 console.log("ravi");
+// program 1
 /*let a= parseInt(prompt());
 if (a%7===0) {
     console.log(a + "  is devisible by 7");
@@ -7,18 +8,17 @@ if (a%7===0) {
 else{
     console.log(a + '  is not divisible by 7');
 }*/
-
+// printing 1 to 24
 let b = 1;
 while (b <= 24) {
   console.log(b);
   b = b + 1;
 }
+// printing 10 to 1
 for (let index = 10; index >= 1; index--) {
   console.log(index);
 }
-let x = 3;
-console.log(x);
-
+// program 6
 let c=+prompt();
 let d=c%10;
 if (d===4) {
@@ -28,7 +28,7 @@ if (d===4) {
 else{
     console.log(d + '  not having 4 units');
 }
-
+// program 3
 let a=prompt('enter a number');
 if(a<=96){
   if (a%2===0) {
@@ -43,6 +43,7 @@ if(a<=96){
 else{
   alert('enter number is grater than 96');
 }
+// program 4
 let i=prompt('enter number');
 if (i%3===0) {
   console.log(i+ '  is multiple  of 3');
