@@ -9,6 +9,7 @@ else{
     console.log(a + '  is not divisible by 7');
 }*/
 // printing 1 to 24
+/*
 let b = 1;
 while (b <= 24) {
   console.log(b);
@@ -52,6 +53,24 @@ if (i%3===0) {
 else{
   console.log(i+' not multiple of 3');
 }
+
+// progrsm 5
+var number=parseInt( prompt('enter a number: '));
+
+if (number>0){
+  console.log(number +'  is positive');
+}
+else if (number===0){
+  console.log(number+ '  is zero');
+
+}
+else {
+  console.log(number+ '  is negative');
+}
+*/
+ 
+
+
 
 
 
