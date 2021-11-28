@@ -67,7 +67,7 @@ while (t <= 24) {
   t++;
 }*/
 //program 10
-var u = 0;
+/*var u = 0;
 
 var t = 1;
 while (t <= 24) {
@@ -76,8 +76,109 @@ while (t <= 24) {
   }
   t++;
 }
-console.log(u);
-// program 11
+console.log(u);*/
+// program 11 &12
+/*
+for(var i=1;i<=10;i++){
+  console.log(i)
+}
+
+for(var i=10;i>=1;i--){
+  console.log(i)
+}
+//program 13
+var gv=parseInt(prompt('enter number:'))
+for(var i=1;i<=gv;i++){
+  console.log(i)
+}*/
+// program 14
+/*for(var j=1;j<=10;j++){
+  if(j%2==0){
+    console.log(j);
+  }
+}
+//program 15
+for(var j=1;j<=10;j++){
+  if(j%2==!0){
+    console.log(j);
+  }
+}
+// pr 16
+for(var j=1;j<=10;j++){
+  var mu=3*j;
+  console.log(mu);
+}
+// pr 17
+for(var j=1;j<=10;j++){
+  var mu=6*j;
+  console.log(mu);
+}*/
+// pr19
+/*var fc=parseInt(prompt('enter number:'));
+for(var v=1; v<=fc;v++){
+  if(fc%v==0){
+    console.log(v);
+  }
+}*/
+//pr18
+
+/*
+let y=1;
+ var fct=+prompt('enter number:');
+ for(var i=1; i<=fct;i++){
+    
+    y*=i;
+    
+ }
+ console.log(y);
+*/
+//pr 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

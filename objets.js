@@ -17,5 +17,5 @@ console.log(i[j]);
 for( var g in i)
 {
     //console.log('hi ', i ,g);
-    console.log('hi',gi[g]);
+    console.log('hi',i[g]);
 }
