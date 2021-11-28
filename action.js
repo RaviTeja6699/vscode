@@ -68,6 +68,8 @@ else {
   console.log(number+ '  is negative');
 }
 */
+ // program 7
+
  
 
 
