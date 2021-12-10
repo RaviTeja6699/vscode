@@ -22,3 +22,54 @@ ar.forEach(function (x,index) {
      }
   
 })
+
+var ar=['ravi','teja','malli'];
+var up=[];
+up= ar.map(function(y){
+  return y.toUpperCase();
+});
+console.log(up);
+var ar1 =[12,23,34,56]
+ var ar2=ar1.filter(function (x,i) {
+  if (x>30) {
+      return true
+      
+  } else {
+    return false
+  }
+  
+})
+console.log(ar2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
