@@ -45,7 +45,6 @@ var students =[
         genUI();
     }
 
-    
 
 
 
