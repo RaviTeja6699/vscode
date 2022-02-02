@@ -56,7 +56,7 @@ var students =[
 
 
 
-    // sort functon is do only string sort so  for nember sorting we use below code
+    // sort functon is do only string format sort so  for nember sorting we use below code
     var nr=[23,4,5,6,7,8,23,45,67,89]
     nr.sort(function(a,b) {
         if (a>b) {
