@@ -15,6 +15,57 @@ var ar=[1,2,3,4];
 // console.log(er);
 // destracring
 var ar1=['ravi','teja'];
-var cr=[...ar,...ar1]
+var cr=[...ar,...ar1,'geetha']
 console.log(cr);
+var a='reactjs';
+var b='angulasrjs';
+var c='javascript';
+var d={};
+var d={...d,a,b,c,}
+console.log(d);
+
+var e='23';
+var f='67';
+var g={};
+ var g={...g,e,f ,a};
+console.log(g);
+var h={...g,...d};
+// var h={...h, a:'anjular'};
+console.log(h);
+var {a:sub}=h;
+console.log(sub);
+var i={...h}
+console.log(i);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
